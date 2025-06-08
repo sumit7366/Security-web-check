@@ -806,50 +806,43 @@ Note that keys that are prefixed with `REACT_APP_` are used client-side, and as 
 ### Dinosaurs are Awesome
 
 
+# 🦖 DINOSAURS ARE AWESOME
 
-#!/bin/bash
+```ansi
+[1;32m
+#============================#
+#   D I N O S A U R S  0xAWE #
+#============================#
 
-green='\033[1;32m'
-reset='\033[0m'
+         __
+        / _)
+ .-^^^-/ /
+__/       /
+<__.|_|-|_|
 
-echo -e "${green}"
-echo "#============================#"
-echo "#   D I N O S A U R S  0xAWE #"
-echo "#============================#"
-echo ""
-echo "         __"
-echo "        / _)"
-echo " .-^^^-/ /"
-echo "__/       /"
-echo "<__.|_|-|_|"
-echo ""
-echo "   __.-=-.       .-=-.__"
-echo " .-'     \`-._.-'     '-."
-echo "|  o     \\__      __/ o |"
-echo "|    .----' \\    / '----. |"
-echo " \\__.'      |  |        './"
-echo "  '-._      |  |         _.'"
-echo "      '-._ _|  |_     _.'"
-echo "           '-._____.-'"
-echo ""
-echo "[Access: GRANTED] ▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%"
-echo "[Protocol: D.I.N.O.] Initializing..."
-sleep 0.5
-echo ">> LOADING REX MODULE..."
-sleep 0.5
-echo ">> BOOTING CARNIVORE CORE..."
-sleep 0.5
-echo ">> ACTIVATING CLAW FIREWALL..."
-sleep 0.5
-echo ">> 🦖 RUNNING JURASSIC MAINFRAME..."
-sleep 0.5
-echo ""
-echo "█▓▒░ 🦖 DINOSAURS ARE AWESOME ░▒▓█"
-echo ""
-echo "#===============================#"
-echo "#  Hack the past. Roar forward.#"
-echo "#===============================#"
-echo -e "${reset}"
+   __.-=-.       .-=-.__
+.-'     `-._.-'     '-.
+|  o     \__      __/ o |
+|    .----' \    / '----. |
+ \__.'      |  |        './
+  '-._      |  |         _.'
+      '-._ _|  |_     _.'
+           '-._____.-'
+
+[Access: GRANTED] ▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
+[Protocol: D.I.N.O.] Initializing...
+
+>> █ LOADING REX MODULE... █
+>> █ BOOTING CARNIVORE CORE █
+>> █ ACTIVATING CLAW FIREWALL █
+>> █🦖 RUNNING JURASSIC MAINFRAME █
+
+█▓▒░ 🦖 DINOSAURS ARE AWESOME ░▒▓█
+
+#===============================#
+#  Hack the past. Roar forward.#
+#===============================#
+[0m
 
 
 
