@@ -5,7 +5,7 @@
 <img src="https://i.ibb.co/q1gZN2p/web-check-logo.png" width="96" /><br />
 <b><i>Comprehensive, on-demand open source intelligence for any website</i></b>
 <br />
-<b>🌐 <a href="https://web-check.xyz/">web-check.xyz</a></b><br />
+
 
 </p>
 
@@ -27,28 +27,6 @@
 
 ---
 
-#### Contents
-
-- **[About](#about)**
-  - [Screenshot](#screenshot)
-  - [Live Demo](#live-demo)
-  - [Mirror](#mirror)
-  - [Features](#features)
-- **[Usage](#usage)**
-  - [Deployment](#deployment)
-    - [Option#1: Netlify](#deploying---option-1-netlify)
-    - [Option#2: Vercel](#deploying---option-2-vercel)
-    - [Option#3: Docker](#deploying---option-3-docker)
-    - [Option#4: Source](#deploying---option-4-from-source)
-  - [Configuration Options](#configuring)
-  - [Developer Setup](#developing)
-- **[Community](#community)**
-  - [Contributing](#contributing)
-  - [Bugs](#reporting-bugs)
-  - [Support](#supporting)
-- **[License](#license)**
-
----
 
 ## About
 Get an insight into the inner-workings of a given website: uncover potential attack vectors, analyse server architecture, view security configurations, and learn what technologies a site is using.
