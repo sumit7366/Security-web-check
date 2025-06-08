@@ -5,7 +5,7 @@
 <img src="https://i.ibb.co/q1gZN2p/web-check-logo.png" width="96" /><br />
 <b><i>Comprehensive, on-demand open source intelligence for any website</i></b>
 <br />
-
+<b>🌐 <a href="https://web-check.xyz/">web-check.xyz</a></b><br />
 
 </p>
 
@@ -27,6 +27,9 @@
 
 ---
 
+
+
+---
 
 ## About
 Get an insight into the inner-workings of a given website: uncover potential attack vectors, analyse server architecture, view security configurations, and learn what technologies a site is using.
@@ -712,7 +715,7 @@ This may be useful to see what a given website looks like, free of the constrain
 
 </details>
 
-Read more here: **[web-check.xyz/about](https://web-check.xyz/about)**
+
 
 ---
 
@@ -802,6 +805,54 @@ Note that keys that are prefixed with `REACT_APP_` are used client-side, and as 
 
 ### Dinosaurs are Awesome
 
+
+
+#!/bin/bash
+
+green='\033[1;32m'
+reset='\033[0m'
+
+echo -e "${green}"
+echo "#============================#"
+echo "#   D I N O S A U R S  0xAWE #"
+echo "#============================#"
+echo ""
+echo "         __"
+echo "        / _)"
+echo " .-^^^-/ /"
+echo "__/       /"
+echo "<__.|_|-|_|"
+echo ""
+echo "   __.-=-.       .-=-.__"
+echo " .-'     \`-._.-'     '-."
+echo "|  o     \\__      __/ o |"
+echo "|    .----' \\    / '----. |"
+echo " \\__.'      |  |        './"
+echo "  '-._      |  |         _.'"
+echo "      '-._ _|  |_     _.'"
+echo "           '-._____.-'"
+echo ""
+echo "[Access: GRANTED] ▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%"
+echo "[Protocol: D.I.N.O.] Initializing..."
+sleep 0.5
+echo ">> LOADING REX MODULE..."
+sleep 0.5
+echo ">> BOOTING CARNIVORE CORE..."
+sleep 0.5
+echo ">> ACTIVATING CLAW FIREWALL..."
+sleep 0.5
+echo ">> 🦖 RUNNING JURASSIC MAINFRAME..."
+sleep 0.5
+echo ""
+echo "█▓▒░ 🦖 DINOSAURS ARE AWESOME ░▒▓█"
+echo ""
+echo "#===============================#"
+echo "#  Hack the past. Roar forward.#"
+echo "#===============================#"
+echo -e "${reset}"
+
+
+
                         . - ~ ~ ~ - .
       ..     _      .-~               ~-.
      //|     \ `..~                      `.
@@ -812,4 +863,5 @@ Note that keys that are prefixed with `REACT_APP_` are used client-side, and as 
   `- - ~ ~ -._|      /_ - ~ ~ ^|      /- _      `.
               |     /          |     /     ~-.     ~- _
               |_____|          |_____|         ~ - . _ _~_-_
+
 
