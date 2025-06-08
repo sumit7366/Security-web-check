@@ -731,7 +731,7 @@ Install the prerequisites listed in the [Developing](#developing) section, then 
 
 ```bash
 git clone https://github.com/sumit7366/Security-web-check # Download the code from GitHub
-cd web-check                                        # Navigate into the project dir
+cd Security-web-check                                        # Navigate into the project dir
 yarn install                                        # Install the NPM dependencies
 yarn build                                          # Build the app for production
 yarn dev                                         # Start the app (API and GUI)
